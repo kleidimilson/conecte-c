@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200.33" height="156.208" viewBox="0 0 200.33 156.208">
+  <defs>
+    <filter id="Oval" x="106.785" y="62.663" width="93.545" height="93.545" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#141638" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Datepicker" transform="translate(0 -33.5)">
+    <path id="Base" d="M16.686,0H177.939c9.215,0,16.686,4.537,16.686,10.134v96.952c0,5.6-7.47,10.134-16.686,10.134H16.686C7.47,117.221,0,112.684,0,107.087V10.134C0,4.537,7.47,0,16.686,0Z" transform="translate(0 33.5)" fill="#555" opacity="0.15"/>
+    <g id="Date" transform="translate(4.874 41.426)">
+      <g id="Nav" transform="translate(152.595 0)">
+        <g id="Next" transform="translate(17.058)">
+          <rect id="Base-2" data-name="Base" width="9.747" height="9.747" fill="none"/>
+          <path id="Path_3" data-name="Path 3" d="M0,7.318l.627.657,3.8-3.987L.627,0,0,.657,3.177,3.987Z" transform="translate(2.658 0.886)" fill="#002251"/>
+        </g>
+        <g id="Prev">
+          <rect id="Base-3" data-name="Base" width="9.747" height="9.747" fill="none"/>
+          <path id="Path_3-2" data-name="Path 3" d="M4.431,7.318,3.8,7.975,0,3.987,3.8,0l.627.657L1.253,3.987Z" transform="translate(2.658 0.886)" fill="#002251"/>
+        </g>
+      </g>
+      <text id="March_2019" data-name="March 2019" transform="translate(5.628 8)" fill="#002251" font-size="12" font-family="Rubik-Medium, Rubik" font-weight="500" letter-spacing="0.015em"><tspan x="0" y="0">Setembro </tspan><tspan y="0" fill="#c1c7d0" letter-spacing="0.021em">2020</tspan></text>
+      <g id="Date-2" data-name="Date" transform="translate(-2.374 19.494)">
+        <g id="Item">
+          <rect id="Base-4" data-name="Base" width="19.494" height="14.621" transform="translate(2.374)" fill="none"/>
+          <text id="_28_7_14_21_28" data-name="28 7 14 21 28" transform="translate(11.735 22.083)" fill="#7a869a" font-size="5" font-family="Rubik-Regular, Rubik"><tspan x="-3.057" y="0">28</tspan><tspan y="0" fill="#002251"></tspan><tspan fill="#002251"><tspan x="-1.283" y="13">7</tspan><tspan x="-2.622" y="26">14</tspan><tspan x="-2.537" y="39">21</tspan><tspan x="-3.057" y="52">28</tspan></tspan></text>
+          <text id="S" transform="translate(12 9.58)" font-size="5" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-11.525" y="0">DOMINGO</tspan></text>
+        </g>
+        <g id="Item-2" data-name="Item" transform="translate(166.178)">
+          <rect id="Base-5" data-name="Base" width="19.494" height="14.621" fill="none"/>
+          <text id="_6_13_20_27_4" data-name="6 13 20 27 4" transform="translate(9.361 22.083)" fill="#002251" font-size="5" font-family="Rubik-Regular, Rubik"><tspan x="-1.507" y="0">6</tspan><tspan x="-2.572" y="13">13</tspan><tspan x="-3.055" y="26">20</tspan><tspan x="-2.75" y="39">27</tspan><tspan fill="#7a869a"><tspan x="-1.553" y="52">4</tspan></tspan></text>
+          <text id="S-2" data-name="S" transform="translate(10.822 9.58)" font-size="5" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-10.23" y="0">SÁBADO</tspan></text>
+        </g>
+        <g id="Item-3" data-name="Item" transform="translate(141.785)">
+          <rect id="Base-6" data-name="Base" width="19.494" height="14.621" transform="translate(0.025)" fill="none"/>
+          <text id="_5_12_19_26_3" data-name="5 12 19 26 3" transform="translate(8.874 21.083)" fill="#002251" font-size="5" font-family="Rubik-Regular, Rubik"><tspan x="-1.485" y="0">5</tspan><tspan x="-2.537" y="13">12</tspan><tspan x="-2.552" y="26">19</tspan><tspan x="-2.975" y="39">26</tspan><tspan fill="#7a869a"><tspan x="-1.502" y="52">3</tspan></tspan></text>
+          <text id="F" transform="translate(10.215 9.58)" font-size="5" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-7.877" y="0">SEXTA</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, -144.28, -27.42)" filter="url(#Oval)">
+            <circle id="Oval-2" data-name="Oval" cx="9.272" cy="9.272" r="9.272" transform="translate(144.28 90.16)" fill="#296d74"/>
+          </g>
+          <text id="_26" data-name="26" transform="translate(9.386 74.23)" fill="#feffff" font-size="6" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-3.738" y="0">26</tspan></text>
+        </g>
+        <g id="Item-4" data-name="Item" transform="translate(111.597)">
+          <rect id="Base-7" data-name="Base" width="19.494" height="14.621" fill="none"/>
+          <text id="_4_11_18_25_2" data-name="4 11 18 25 2" transform="translate(8.848 21.083)" fill="#002251" font-size="5" font-family="Rubik-Regular, Rubik"><tspan x="-1.553" y="0">4</tspan><tspan x="-2.14" y="13">11</tspan><tspan x="-2.66" y="26">18</tspan><tspan x="-2.952" y="39">25</tspan><tspan fill="#7a869a"><tspan x="-1.467" y="52">2</tspan></tspan></text>
+          <text id="T" transform="translate(10.403 9.58)" font-size="5" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-9.097" y="0">QUINTA</tspan></text>
+        </g>
+        <g id="Item-5" data-name="Item" transform="translate(83.857)">
+          <rect id="Base-8" data-name="Base" width="19.494" height="14.621" transform="translate(0.478)" fill="none"/>
+          <text id="_3_10_17_24_1" data-name="3 10 17 24 1" transform="translate(9.326 21.083)" fill="#002251" font-size="5" font-family="Rubik-Regular, Rubik"><tspan x="-1.502" y="0">3</tspan><tspan x="-2.657" y="13">10</tspan><tspan x="-2.352" y="26">17</tspan><tspan x="-2.995" y="39">24</tspan><tspan fill="#7a869a"><tspan x="-1.07" y="52">1</tspan></tspan></text>
+          <text id="W" transform="translate(10.143 9.58)" font-size="5" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-9.94" y="0">QUARTA</tspan></text>
+        </g>
+        <g id="Item-6" data-name="Item" transform="translate(57.125)">
+          <rect id="Base-9" data-name="Base" width="19.494" height="14.621" fill="none"/>
+          <text id="_2_9_16_23_30" data-name="2 9 16 23 30" transform="translate(9.361 21.083)" fill="#002251" font-size="5" font-family="Rubik-Regular, Rubik"><tspan x="-1.467" y="0">2</tspan><tspan x="-1.482" y="13">9</tspan><tspan x="-2.577" y="26">16</tspan><tspan x="-2.97" y="39">23</tspan><tspan x="-3.09" y="52">30</tspan></text>
+          <text id="T-2" data-name="T" transform="translate(9.875 9.58)" font-size="5" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-8.167" y="0">TERÇA</tspan></text>
+        </g>
+        <g id="Item-7" data-name="Item" transform="translate(28)">
+          <rect id="Base-10" data-name="Base" width="19.494" height="14.621" transform="translate(2.742)" fill="none"/>
+          <text id="_1_8_15_22_29" data-name="1 8 15 22 29" transform="translate(11.59 21.083)" fill="#002251" font-size="5" font-family="Rubik-Regular, Rubik"><tspan x="-1.07" y="0">1</tspan><tspan x="-1.59" y="13">8</tspan><tspan x="-2.555" y="26">15</tspan><tspan x="-2.935" y="39">22</tspan><tspan x="-2.95" y="52">29</tspan></text>
+          <text id="M" transform="translate(12 9.58)" font-size="5" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-11.9" y="0">SEGUNDA</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

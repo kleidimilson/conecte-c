@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="51" viewBox="0 0 43 51">
+  <g id="Summary" transform="translate(42 51) rotate(180)">
+    <g id="Spending" transform="translate(-1)">
+      <rect id="Base" width="42" height="43" transform="translate(1)" fill="none"/>
+      <g id="Icon" transform="translate(0 8.062)">
+        <rect id="Base-2" data-name="Base" width="43" height="43" rx="21.5" transform="translate(0 -0.062)" fill="#727a7d" opacity="0.15"/>
+        <path id="Combined_Shape" data-name="Combined Shape" d="M0,5.909,1,6.977,5.761,2.651V21H7.238V2.65L12,6.977l1-1.068L6.5,0Z" transform="translate(15 11.938)" fill="#727a7d"/>
+      </g>
+    </g>
+  </g>
+  <g id="Summary-2" data-name="Summary" transform="translate(42 51) rotate(180)">
+    <g id="Spending-2" data-name="Spending" transform="translate(-1)">
+      <rect id="Base-3" data-name="Base" width="42" height="43" transform="translate(1)" fill="none"/>
+      <g id="Icon-2" data-name="Icon" transform="translate(0 8.062)">
+        <rect id="Base-4" data-name="Base" width="43" height="43" rx="21.5" transform="translate(0 -0.062)" fill="#727a7d" opacity="0.15"/>
+        <path id="Combined_Shape-2" data-name="Combined Shape" d="M0,5.909,1,6.977,5.761,2.651V21H7.238V2.65L12,6.977l1-1.068L6.5,0Z" transform="translate(15 11.938)" fill="#727a7d"/>
+      </g>
+    </g>
+  </g>
+</svg>
