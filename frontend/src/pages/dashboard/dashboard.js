@@ -7,10 +7,8 @@ import orelha from '../../assets/orelha.svg';
 import './dashboard.css';
 import img from '../../assets/img.PNG';
 import sino from '../../assets/sino.svg'
-import interrogacao from '../../assets/interrogacao.svg'
-import setaBaixo from '../../assets/setabaixo.svg'
+
 import bomdia from '../../assets/bomdia.svg'
-import {Link} from 'react-router-dom'
 
 function Dashboard() {
   return (
@@ -31,21 +29,21 @@ function Dashboard() {
         
         </div>
         <div className="calendario">
-            <img src={calendario}/>
+            <img src={calendario} alt=""/>
             <div>
                 <div>
-                    <img src={direitos} />
+                    <img src={direitos} alt="" />
                     Meus Direitos
                 </div>
                 <div>
-                    <img src={ajuda} />
+                    <img src={ajuda} alt=""/>
                     Posso te ajudar 
                 </div>
             </div>
         </div>
         <div className="footer">
              DETALHAMENTO
-             <img src={img} width={200}/>
+             <img src={img} width={200} alt=""/>
         </div>
 
        
